@@ -1,9 +1,10 @@
 ## Hi, I am Daniel 👋 
 
-Congratulation! You reached the hidden page. Wait, no, it is just an info page.
+**[TL;DR]**  
+convert passion into code
 
-#### about me
-Having a customer view on design and usability helps to improve experience in mockup and prototype design with figma. This had a huge impact on the separation into components and workflows as well as datamodels.
+#### About me
+Having a customer view on design and usability helps to improve experience in mockup and prototype design with figma. This has a huge impact on the separation into components and workflows as well as datamodels.
 
 **Father**. *Husband*. `Developer`.
 
