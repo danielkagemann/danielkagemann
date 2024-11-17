@@ -15,23 +15,23 @@ Ability to not only develop applications but also having the customer view.
 
 #### technical skills
 
-<div style="display:inline; font-size: 9px; background-color: #000; color: #fff; padding: 4px; border-radius: 4px">react</div>
-<div style="display:inline; font-size: 9px; background-color: #000; color: #fff; padding: 4px; border-radius: 4px">typescript</div>
-<div style="display:inline; font-size: 9px; background-color: #000; color: #fff; padding: 4px; border-radius: 4px">Swift UI</div>
-<div style="display:inline; font-size: 9px; background-color: #000; color: #fff; padding: 4px; border-radius: 4px">javascript</div>
-<div style="display:inline; font-size: 9px; background-color: #000; color: #fff; padding: 4px; border-radius: 4px">CSS</div>
-<div style="display:inline; font-size: 9px; background-color: #000; color: #fff; padding: 4px; border-radius: 4px">HTML5</div>
-<div style="display:inline; font-size: 9px; background-color: #000; color: #fff; padding: 4px; border-radius: 4px">SASS</div>
-<div style="display:inline; font-size: 9px; background-color: #000; color: #fff; padding: 4px; border-radius: 4px">Redux + toolkit</div>
-<div style="display:inline; font-size: 9px; background-color: #000; color: #fff; padding: 4px; border-radius: 4px">Jest</div>
-<div style="display:inline; font-size: 9px; background-color: #000; color: #fff; padding: 4px; border-radius: 4px">Cypress</div>
-<div style="display:inline; font-size: 9px; background-color: #000; color: #fff; padding: 4px; border-radius: 4px">NodeJS</div>
-<div style="display:inline; font-size: 9px; background-color: #000; color: #fff; padding: 4px; border-radius: 4px">Express</div>
-<div style="display:inline; font-size: 9px; background-color: #000; color: #fff; padding: 4px; border-radius: 4px">figma</div>
-<div style="display:inline; font-size: 9px; background-color: #000; color: #fff; padding: 4px; border-radius: 4px">final cut pro</div>
-<div style="display:inline; font-size: 9px; background-color: #000; color: #fff; padding: 4px; border-radius: 4px">zod</div>
-<div style="display:inline; font-size: 9px; background-color: #000; color: #fff; padding: 4px; border-radius: 4px">git</div>
-<div style="display:inline; font-size: 9px; background-color: #000; color: #fff; padding: 4px; border-radius: 4px">agile / scrum</div>
+<mark>react</mark>
+<mark>typescript</mark>
+<mark>Swift UI</mark>
+<mark>javascript</mark>
+<mark>CSS</mark>
+<mark>HTML5</mark>
+<mark>SASS</mark>
+<mark>Redux + toolkit</mark>
+<mark>Jest</mark>
+<mark>Cypress</mark>
+<mark>NodeJS</mark>
+<mark>Express</mark>
+<mark>figma</mark>
+<mark>final cut pro</mark>
+<mark>zod</mark>
+<mark>git</mark>
+<mark>agile / scrum</mark>
 
 
 #### latest ideas or projects I am working on 
