@@ -15,23 +15,23 @@ Ability to not only develop applications but also having the customer view.
 
 #### technical skills
 
-<mark>react</mark>
-<mark>typescript</mark>
-<mark>Swift UI</mark>
-<mark>javascript</mark>
-<mark>CSS</mark>
-<mark>HTML5</mark>
-<mark>SASS</mark>
-<mark>Redux + toolkit</mark>
-<mark>Jest</mark>
-<mark>Cypress</mark>
-<mark>NodeJS</mark>
-<mark>Express</mark>
-<mark>figma</mark>
-<mark>final cut pro</mark>
-<mark>zod</mark>
-<mark>git</mark>
-<mark>agile / scrum</mark>
+###### language
+![](https://danielkagemann.name/createImageLabel.php?labels=["react","typescript","javascript","nodejs","php","swiftui"])
+
+###### modules (the mandatory ones)
+![](https://danielkagemann.name/createImageLabel.php?labels=["redux","redux%20toolkit","zod","express"])
+
+###### html
+![](https://danielkagemann.name/createImageLabel.php?labels=["html","CSS","SASS"])
+
+###### testing
+![](https://danielkagemann.name/createImageLabel.php?labels=["jest","testing-library","cypress"])
+
+###### prototyping
+![](https://danielkagemann.name/createImageLabel.php?labels=["figma","final%20cut%20pro%20x","pixelmator"])
+
+###### other
+![](https://danielkagemann.name/createImageLabel.php?labels=["git","jenkins","docker","agile","scrum"])
 
 
 #### latest ideas or projects I am working on 
