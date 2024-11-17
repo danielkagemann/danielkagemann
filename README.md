@@ -1,6 +1,6 @@
 ## Hi, I am Daniel 👋 
 
-I would like to say you reached the hidden page but it is kind obvious what this is all about.
+Congratulation! You reached the hidden page. Wait, no, it is just an info page.
 
 #### about me
 Having a customer view on design and usability helps to improve experience in mockup and prototype design with figma. This had a huge impact on the separation into components and workflows as well as datamodels.
