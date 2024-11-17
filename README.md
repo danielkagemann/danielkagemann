@@ -13,6 +13,8 @@ Implementation in react using typescript a lot easier then...
 
 Ability to not only develop applications but also having the customer view.
 
+---
+
 #### technical skills
 
 ###### language
@@ -33,8 +35,9 @@ Ability to not only develop applications but also having the customer view.
 ###### other
 ![](https://danielkagemann.name/createImageLabel.php?labels=["git","jenkins","docker","agile","scrum"])
 
+---
 
-#### latest ideas or projects I am working on 
+#### Latest ideas or projects in work 
 
 - 🇪🇸 I am trying to learn spanish as new language
 - 🚀 Coding the app flippy to help me learning spanish 
