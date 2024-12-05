@@ -19,7 +19,13 @@ Ability to not only develop applications but also having the customer view.
 #### technical skills
 
 ###### language
-![](https://danielkagemann.name/createImageLabel.php?labels=["react","typescript","javascript","nodejs","php","swiftui"])
+
+![](https://img.shields.io/badge/react-000)
+![](https://img.shields.io/badge/typescript-000)
+![](https://img.shields.io/badge/javascript-000)
+![](https://img.shields.io/badge/nodejs-000)
+![](https://img.shields.io/badge/php-000)
+![](https://img.shields.io/badge/swiftui-000)
 
 ###### modules (the mandatory ones)
 ![](https://danielkagemann.name/createImageLabel.php?labels=["redux","redux%20toolkit","zod","express"])
