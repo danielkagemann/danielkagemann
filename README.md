@@ -27,20 +27,37 @@ Ability to not only develop applications but also having the customer view.
 ![](https://img.shields.io/badge/php-000)
 ![](https://img.shields.io/badge/swiftui-000)
 
-###### modules (the mandatory ones)
-![](https://danielkagemann.name/createImageLabel.php?labels=["redux","redux%20toolkit","zod","express"])
+###### modules (just a small collection...)
+![](https://img.shields.io/badge/redux-000)
+![](https://img.shields.io/badge/redux%20toolkit-000)
+![](https://img.shields.io/badge/zod-000)
+![](https://img.shields.io/badge/express-000)
 
-###### html
-![](https://danielkagemann.name/createImageLabel.php?labels=["html","CSS","SASS"])
+###### web
+![](https://img.shields.io/badge/HTML-000)
+![](https://img.shields.io/badge/CSS-000)
+![](https://img.shields.io/badge/SASS-000)
 
 ###### testing
-![](https://danielkagemann.name/createImageLabel.php?labels=["jest","testing-library","cypress"])
+![](https://img.shields.io/badge/jest-000)
+![](https://img.shields.io/badge/testing-library-000)
+![](https://img.shields.io/badge/cypress-000)
+![](https://img.shields.io/badge/playwright-000)
 
 ###### prototyping
-![](https://danielkagemann.name/createImageLabel.php?labels=["figma","final%20cut%20pro%20x","pixelmator"])
+![](https://img.shields.io/badge/figma-000)
+![](https://img.shields.io/badge/final%20cut%20pro-000)
+![](https://img.shields.io/badge/pixelmator-000)
+
 
 ###### other
-![](https://danielkagemann.name/createImageLabel.php?labels=["git","jenkins","docker","agile","scrum"])
+![](https://img.shields.io/badge/Jira-000)
+![](https://img.shields.io/badge/Confluence-000)
+![](https://img.shields.io/badge/git-000)
+![](https://img.shields.io/badge/jenkins-000)
+![](https://img.shields.io/badge/docker-000)
+![](https://img.shields.io/badge/agile-000)
+![](https://img.shields.io/badge/scrum-000)
 
 ---
 
