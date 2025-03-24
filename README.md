@@ -37,6 +37,7 @@ Ability to not only develop applications but also having the customer view.
 ![](https://img.shields.io/badge/HTML-000)
 ![](https://img.shields.io/badge/CSS-000)
 ![](https://img.shields.io/badge/SASS-000)
+![](https://img.shields.io/badge/chartscss-000)
 
 ###### testing
 ![](https://img.shields.io/badge/jest-000)
@@ -65,20 +66,22 @@ Ability to not only develop applications but also having the customer view.
 ![](https://img.shields.io/badge/react%20query-000)
 ![](https://img.shields.io/badge/tailwindcss-000)
 ![](https://img.shields.io/badge/shadcn-ui-000)
+![](https://img.shields.io/badge/motion-000)
 
 ---
 
 #### Latest ideas or projects in work 
 
 - 🇪🇸 I am trying to learn spanish as new language
-- 🚀 Coding the app flippy to help me learning spanish 
+- 🚀 Coding the app flippy to help me learning spanish
+- 💾 creating an admin panel dashboard view for https://datenkommo.de
 
 These apps have a deep impact to our private daily life
 
-- epilepsietagebuch: An app do document epileptic seizures, medication, laborvalues and a lot more (https://hallo-ich-bin-epi.de)
-- laiba: a journal for your daily events (https://laiba-app.de)
-- hospineo: document your doctor and hospital visits (https://hospineo.de/)
-- bestellfreude: track what you buy online (https://bestellfreu.de/)
+- **epilepsietagebuch**: An app do document epileptic seizures, medication, laborvalues and a lot more (https://hallo-ich-bin-epi.de)
+- **laiba**: a journal for your daily events (https://laiba-app.de)
+- **hospineo**: document your doctor and hospital visits (https://hospineo.de/)
+- **bestellfreude**: track what you buy online (https://bestellfreu.de/)
 
 There are way more things. If you are interested see my portfolio at https://danielkagemann.name
 
