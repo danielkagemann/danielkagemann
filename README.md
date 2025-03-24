@@ -19,11 +19,11 @@ Ability to not only develop applications but also having the customer view.
 #### technical skills
 
 ###### language
-
 ![](https://img.shields.io/badge/react-000)
 ![](https://img.shields.io/badge/typescript-000)
 ![](https://img.shields.io/badge/javascript-000)
 ![](https://img.shields.io/badge/nodejs-000)
+![](https://img.shields.io/badge/bun-000)
 ![](https://img.shields.io/badge/php-000)
 ![](https://img.shields.io/badge/swiftui-000)
 
@@ -57,8 +57,14 @@ Ability to not only develop applications but also having the customer view.
 ![](https://img.shields.io/badge/git-000)
 ![](https://img.shields.io/badge/jenkins-000)
 ![](https://img.shields.io/badge/docker-000)
+![](https://img.shields.io/badge/azuredevops-000)
 ![](https://img.shields.io/badge/agile-000)
 ![](https://img.shields.io/badge/scrum-000)
+
+###### tools
+![](https://img.shields.io/badge/intellij-000)
+![](https://img.shields.io/badge/xcode-000)
+![](https://img.shields.io/badge/vscode-000)
 
 ###### some experience
 ![](https://img.shields.io/badge/react%20native-000)
