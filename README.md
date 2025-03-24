@@ -40,6 +40,7 @@ Ability to not only develop applications but also having the customer view.
 
 ###### testing
 ![](https://img.shields.io/badge/jest-000)
+![](https://img.shields.io/badge/vijest-000)
 ![](https://img.shields.io/badge/testing-library-000)
 ![](https://img.shields.io/badge/cypress-000)
 ![](https://img.shields.io/badge/playwright-000)
@@ -49,7 +50,6 @@ Ability to not only develop applications but also having the customer view.
 ![](https://img.shields.io/badge/final%20cut%20pro-000)
 ![](https://img.shields.io/badge/pixelmator-000)
 
-
 ###### other
 ![](https://img.shields.io/badge/Jira-000)
 ![](https://img.shields.io/badge/Confluence-000)
@@ -58,6 +58,13 @@ Ability to not only develop applications but also having the customer view.
 ![](https://img.shields.io/badge/docker-000)
 ![](https://img.shields.io/badge/agile-000)
 ![](https://img.shields.io/badge/scrum-000)
+
+###### some experience
+![](https://img.shields.io/badge/react%20native-000)
+![](https://img.shields.io/badge/svelte-000)
+![](https://img.shields.io/badge/react%20query-000)
+![](https://img.shields.io/badge/tailwindcss-000)
+![](https://img.shields.io/badge/shadcn-ui-000)
 
 ---
 
