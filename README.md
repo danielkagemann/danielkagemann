@@ -30,6 +30,7 @@ Ability to not only develop applications but also having the customer view.
 ###### modules (just a small collection...)
 ![](https://img.shields.io/badge/redux-000)
 ![](https://img.shields.io/badge/redux%20toolkit-000)
+![](https://img.shields.io/badge/tanquery%20query-000)
 ![](https://img.shields.io/badge/zod-000)
 ![](https://img.shields.io/badge/express-000)
 
@@ -37,7 +38,8 @@ Ability to not only develop applications but also having the customer view.
 ![](https://img.shields.io/badge/HTML-000)
 ![](https://img.shields.io/badge/CSS-000)
 ![](https://img.shields.io/badge/SASS-000)
-![](https://img.shields.io/badge/chartscss-000)
+![](https://img.shields.io/badge/chartcss-000)
+![](https://img.shields.io/badge/tailwindcss-000)
 
 ###### testing
 ![](https://img.shields.io/badge/jest-000)
@@ -69,8 +71,6 @@ Ability to not only develop applications but also having the customer view.
 ###### some experience
 ![](https://img.shields.io/badge/react%20native-000)
 ![](https://img.shields.io/badge/svelte-000)
-![](https://img.shields.io/badge/react%20query-000)
-![](https://img.shields.io/badge/tailwindcss-000)
 ![](https://img.shields.io/badge/shadcn-ui-000)
 ![](https://img.shields.io/badge/motion-000)
 
@@ -88,6 +88,7 @@ These apps have a deep impact to our private daily life
 - **laiba**: a journal for your daily events (https://laiba-app.de)
 - **hospineo**: document your doctor and hospital visits (https://hospineo.de/)
 - **bestellfreude**: track what you buy online (https://bestellfreu.de/)
+- **wunschziele**: your personal bucketlist (https://wunschziele.info/)
 
 There are way more things. If you are interested see my portfolio at https://danielkagemann.name
 
