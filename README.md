@@ -10,10 +10,6 @@ Having a customer view on design and usability helps to improve experience in mo
 
 Love my family and being a developer. Creating something which nobody uses is the worst thing that can happen.
 
-Implementation in react using typescript a lot easier then...
-
-Ability to not only develop applications but also having the customer view.
-
 ---
 
 #### technical skills
